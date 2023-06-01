@@ -18,3 +18,6 @@ a.out
 /result*
 /cov-int
 /clang-scan
+.idea/
+CMakeUserPresets.json
+cmake-build-*/
