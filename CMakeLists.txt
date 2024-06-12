@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.26)
-project(edsign VERSION 1.0.0)
+project(edsign VERSION 1.0.0 LANGUAGES C)
 
 add_library(edsign
             lib/blake2.c
